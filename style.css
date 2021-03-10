@@ -122,7 +122,7 @@ background-color:  hsl(0, 0%, 100%);
 
 /* for mobile version*/
 
-@media only screen and (max-width:400px){
+@media only screen and (max-width:500px){
     .main{
         width: 100vw;
         display:flex;
